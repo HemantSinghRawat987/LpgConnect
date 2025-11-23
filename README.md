@@ -30,7 +30,9 @@ A mobile-first, gamified experience designed to encourage timely refills and saf
 
 ## Installation & Setup
 
-1. **Clone the repository:**  
+1. Provide your gemini api key by making .env.local file as GEMINI_API_KEY = "your api key"
+
+2. **Clone the repository:**  
 ```bash
 git clone https://github.com/yourusername/LpgConnect.git
 cd LpgConnect
