@@ -1,0 +1,7 @@
+{
+  "name": "LPG SmartConnect",
+  "description": "A comprehensive LPG inventory management system bridging distributors and customers with real-time tracking, AI-driven demand prediction, and safety compliance monitoring.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
